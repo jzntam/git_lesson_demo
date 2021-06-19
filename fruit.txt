@@ -1,4 +1,6 @@
 Apple
+Banana
+Cherry
 Dates
 Honeydew
 Mango
